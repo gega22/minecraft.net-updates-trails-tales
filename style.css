@@ -1,10 +1,15 @@
 @import url('https://fonts.cdnfonts.com/css/minecraft-4');
 body{
-    background: url('background.jfif');
+    background: url('background.gif');
     background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
 }
 .img1{
+    height: 500px;
+    align-items: center;
+}
+.img2{
     height: 500px;
 }
 .discover{
@@ -152,4 +157,7 @@ body{
     font-size: 35px;
     font-family: 'Minecraft', sans-serif;
     color: brown;
+}
+.armor-trimimg{
+    height: 500px;
 }
