@@ -191,3 +191,17 @@ body{
 .armor-trimimg{
     height: 500px;
 }
+.back-to-home{
+    margin-top: -50px;
+    height: 50px;
+    float: left;
+    background-color: #333333;
+    border: none;
+    color: blue;
+    padding: 10px 15px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    transition: all 0.2s ease-in-out;
+  }
